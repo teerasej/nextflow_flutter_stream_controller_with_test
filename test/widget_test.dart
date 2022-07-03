@@ -19,7 +19,7 @@ void main() {
       var example = ExampleStream();
 
       expect(
-        example.stream,
+        example.controller.stream,
         emitsInOrder(
           [
             SubmitValue.One,
