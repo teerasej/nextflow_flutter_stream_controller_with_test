@@ -1,16 +1,13 @@
 # nextflow_flutter_stream_controller_with_test
 
-A new Flutter project.
+A flutter project that show how to setup and use StreamController.
 
-## Getting Started
+Original Blog post: https://nextflow.in.th/2022/flutter-stream-controller-thai/
 
-This project is a starting point for a Flutter application.
+## Contact for training service
 
-A few resources to get you started if this is your first Flutter project:
+Email: [training@nextflow.in.th](mailto:training@nextflow.in.th)
+Facebook: https://www.facebook.com/nextflow
+LINE: https://lin.ee/BjQdAxG 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
